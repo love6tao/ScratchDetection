@@ -26,11 +26,11 @@ For scratch detect, our contribution contains:
     
    <img src="https://github.com/love6tao/ScratchDetection/blob/master/compare%20results/ISODATA(%E4%B9%9F%E5%8F%AB%E5%81%9Aintermeans%E6%B3%95%EF%BC%89.jpg" width="256"/> <img src="https://github.com/love6tao/ScratchDetection/blob/master/compare%20results/Yen%E6%B3%95.jpg" width="256"/> 
 
-    ISODATA[4]                              Yen[5]
+    ISODATA[4]                                          Yen[5]
     
    <img src="https://github.com/love6tao/ScratchDetection/blob/master/compare%20results/Garbor%20Based.png" width="256"/> <img src="https://github.com/love6tao/ScratchDetection/blob/master/compare%20results/Our%20Method.bmp" width="256"/> 
 
-    Garbor Based[6]                     Our Method
+    Garbor Based[6]                             Our Method
     
   
 * histogram-based thresholding 谷底最小值[1]：C. A. Glasbey, "An analysis of histogram-based thresholding algorithms," CVGIP: Graphical Models and Image Processing, vol. 55, pp. 532-537, 1993.
