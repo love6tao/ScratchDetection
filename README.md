@@ -18,6 +18,6 @@ For scratch detect, our contribution contains:
 
 <img src="https://github.com/love6tao/ScratchDetection/blob/master/compare%20results/soureimage_1.bmp" width="256"/> <img src="https://github.com/love6tao/ScratchDetection/blob/master/compare%20results/%E8%B0%B7%E5%BA%95%E6%9C%80%E5%B0%8F%E5%80%BC.jpg" width="256"/> 
 
-Original defect image                           histogram-based thresholding[1]
+Original defect image                                                                           histogram-based thresholding[1]
 
 
