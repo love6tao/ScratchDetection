@@ -31,8 +31,11 @@ For scratch detect, our contribution contains:
    <img src="https://github.com/love6tao/ScratchDetection/blob/master/compare%20results/Garbor%20Based.png" width="256"/> <img src="https://github.com/love6tao/ScratchDetection/blob/master/compare%20results/Our%20Method.bmp" width="256"/> 
 
     Garbor Based[6]                             Our Method
-    
   
+  
+ ### References
+ 
+ 
 * histogram-based thresholding 谷底最小值[1]：C. A. Glasbey, "An analysis of histogram-based thresholding algorithms," CVGIP: Graphical Models and Image Processing, vol. 55, pp. 532-537, 1993.
 
 * Moment-preserving thresholding动能保持法[2]：W. Tsai, “Moment-preserving thresholding: a new approach,” Comput.Vision Graphics Image Process., vol. 29, pp. 377-393, 1985.
